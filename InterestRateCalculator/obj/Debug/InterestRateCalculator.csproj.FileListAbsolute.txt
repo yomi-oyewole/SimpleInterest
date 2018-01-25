@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\bin\Debug\InterestRateCalculator.exe.config
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\bin\Debug\InterestRateCalculator.exe
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\bin\Debug\InterestRateCalculator.pdb
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\obj\Debug\InterestRateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\obj\Debug\InterestRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\obj\Debug\InterestRateCalculator.exe
+C:\Users\Benjamin\source\repos\ProjectsTraining\InterestRateCalculator\obj\Debug\InterestRateCalculator.pdb
